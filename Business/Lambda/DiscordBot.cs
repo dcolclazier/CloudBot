@@ -20,7 +20,7 @@ namespace DiscordBot.Business.Lambda
 
 
 		//todo - IOC?
-		private const string Token = "NTU5NDcwOTkxNjc2NDA3OTE1.XKKoKA.ny2SJLDLQC3KeQj2cGeKXG4zzZk";
+		private const string Token = "OBFUSCATED";
 
 		public DiscordBot() : base("TestLambda")
 		{
